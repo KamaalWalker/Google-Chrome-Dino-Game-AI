@@ -30,7 +30,7 @@ ArrayList<Ground> grounds = new ArrayList<Ground>();
 
 
 int obstacleTimer = 0;
-int minimumTimeBetweenObstacles = 60;
+int minimumTimeBetweenObstacles = 30;
 int randomAddition = 0;
 int groundCounter = 0;
 float speed = 10;
